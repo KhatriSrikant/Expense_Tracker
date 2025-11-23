@@ -47,6 +47,7 @@ matches the sum (e.g. 1350.0 ).
 <img width="269" height="160" alt="image" src="https://github.com/user-attachments/assets/721463ce-cd41-4d31-b44f-249cb4e7323e" />
 
 4) Exit :
+   
    ![screenshot Exit ](https://github.com/user-attachments/assets/2b191a4f-7d17-44ca-ae37-627c5a1cdb0c)
 
 
