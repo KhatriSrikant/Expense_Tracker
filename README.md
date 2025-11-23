@@ -1,4 +1,4 @@
-# Expense_Tracker-
+# Expense_Tracker
 
 # Overview of the Project
 The Expense Tracker is a lightweight, console-based application designed to help users
